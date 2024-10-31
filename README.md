@@ -1,4 +1,4 @@
-# Matter-Enabled Patient Monitoring and Alert System for ICU Wards :
+# Matter-Enabled Patient Monitoring System:
 
 ## Problem:  
 Current ICU patient monitoring systems typically lack wireless connectivity and are meant to only track a patients vitals. This would require nurses or doctors to enter the ICU at regular intervals to check in on the patient, increasing the risk of contamination in a highly sterile environment.
