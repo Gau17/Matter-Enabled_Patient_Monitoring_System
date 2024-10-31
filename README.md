@@ -9,6 +9,9 @@ Our system combines vital signs monitoring with several other sensors in order t
 Additionally, the system has smart sensing and actuation capabilities such as fall detection, smoke/gas alert system, intrusion detection, etc. 
 
 This system is powered by the Arduino Nano Matter board and has extremely low power consumption. The overall system was designed to be low cost as well.
+
+<img src="https://github.com/user-attachments/assets/f4368d68-5918-4de6-9373-e76b596b0671" width="70%" height="70%">
+
  
 ## Detailed description of system: 
 <img src="https://github.com/user-attachments/assets/e8fa3933-af8d-4053-9d9e-22a3d39bf292" width="70%" height="70%"> 
