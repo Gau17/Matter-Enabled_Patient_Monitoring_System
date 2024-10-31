@@ -72,3 +72,8 @@ https://youtu.be/kUbnermfsqE
 ## Software: 
 We have written some custom functions for sensor control, in addition to using the matter examples provided in the Arduino IDE.
 The complete arduino code can be found in the repository above.
+
+## Team Members:
+- Gautam Bidari 
+- Karthik Ganta
+- Vishwesh Kota
