@@ -50,7 +50,10 @@ For actuation events, we are using a buzzer and an RGB LED. 
 The LED will blink alternating red and green if any anomalies are detected and the buzzer will also ring. 
 
 If all systems are ok, then the LED will glow green.
- 
+
+## Video Demonstration:
+
+https://youtu.be/kUbnermfsqE
  
 ## Why Matter? 
 - Matter over thread has lower energy consumption as compared to WiFi, thus enabling longer operation on battery power. 
